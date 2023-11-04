@@ -1,3 +1,7 @@
+---
+layout: default
+title: circle-flags
+---
 # circle-flags <img src="logo.svg" alt="circle-flags animated logo" align="right">
 
 A collection of ~~circular~~ ~~square~~ circular SVG country flags, based on
