@@ -112,7 +112,7 @@ issue and I’ll try and amend the original Figma file.
 * `#F3F3F3`: Light Grey
 * `#EEEEEE`: White
 * `#FCFCFC`: Bright White
-*
+
 ## License
 
 This project is released under the [MIT license](LICENSE.md).
