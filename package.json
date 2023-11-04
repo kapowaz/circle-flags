@@ -4,7 +4,7 @@
   "description": "A collection of circular SVG country flags.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HatScripts/circle-flags.git"
+    "url": "git+https://github.com/kapowaz/circle-flags.git"
   },
   "keywords": [
     "svg",
@@ -28,10 +28,10 @@
     "circles",
     "icon-pack"
   ],
-  "author": "HatScripts <contact@hatscripts.com>",
+  "contributors": ["HatScripts <contact@hatscripts.com>", "Ben Darlow <ben@kapowaz.net>"],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/HatScripts/circle-flags/issues"
+    "url": "https://github.com/kapowaz/circle-flags/issues"
   },
-  "homepage": "https://github.com/HatScripts/circle-flags#readme"
+  "homepage": "https://github.com/kapowaz/circle-flags#readme"
 }
