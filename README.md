@@ -123,4 +123,4 @@ This project is released under the [MIT license](LICENSE.md).
 [gallery]: https://kapowaz.github.io/circle-flags/gallery
 [react]: https://reactjs.org
 [svgo]: https://github.com/svg/svgo
-[circle-flags-figma]: ...
+[circle-flags-figma]: https://www.figma.com/community/file/1302621281646602629/circle-flags
