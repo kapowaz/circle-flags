@@ -6,6 +6,14 @@
     "type": "git",
     "url": "git+https://github.com/kapowaz/circle-flags.git"
   },
+  "engines": {
+    "node": "18.18.*",
+    "npm": "please-use-yarn",
+    "yarn": ">= 1.22.0"
+  },
+  "scripts": {
+    "css-vars": "node scripts/updateCustomProperties.js"
+  },
   "keywords": [
     "svg",
     "country-flags",
@@ -28,10 +36,22 @@
     "circles",
     "icon-pack"
   ],
-  "contributors": ["HatScripts <contact@hatscripts.com>", "Ben Darlow <ben@kapowaz.net>"],
+  "contributors": [
+    "HatScripts <contact@hatscripts.com>",
+    "Ben Darlow <ben@kapowaz.net>"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/kapowaz/circle-flags/issues"
   },
-  "homepage": "https://github.com/kapowaz/circle-flags#readme"
+  "homepage": "https://github.com/kapowaz/circle-flags#readme",
+  "devDependencies": {
+    "@docusaurus/eslint-plugin": "^3.7.0",
+    "@eslint/eslintrc": "^3",
+    "colors": "^1.4.0",
+    "eslint": "^9",
+    "jsdom": "^26.1.0",
+    "prettier": "^3.5.1",
+    "w3c-xmlserializer": "^5.0.0"
+  }
 }
